@@ -6,6 +6,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number/) | [TS](./algorithms/uglyNumber/uglyNumber.ts) |Medium|
 |198|[House Robber](https://leetcode.com/problems/house-robber/) | [TS](./algorithms/houseRobber/houseRobber.ts) |Medium|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/) | [TS](./algorithms/majorityElement/majorityElement.ts) |Easy|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [TS](./algorithms/reverseWordsInAString/reverseWordsInAString.ts) |Medium|
