@@ -3,7 +3,7 @@ function maxProfit(prices: number[]): number {
   let maxProfit = 0;
 
   for (let i = 1; i < prices.length; i++) {
-      let sell = prices[i];
+      const sell = prices[i];
       if (sell < buy) {
           buy = sell
       }
