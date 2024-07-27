@@ -6,6 +6,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|169|[Majority Element](https://leetcode.com/problems/majority-element/) | [TS](./algorithms/majorityElement/majorityElement.ts) |Easy|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [TS](./algorithms/reverseWordsInAString/reverseWordsInAString.ts) |Medium|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [TS](./algorithms/bestTimeToBuyAndSellStock/bestTimeToBuyAndSellStock.ts) |Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [TS](./algorithms/climbingStairs/climbingStairs.ts) |Easy|
