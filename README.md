@@ -6,6 +6,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [TS](./algorithms/isSubsequence/isSubsequence.ts) |Easy|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [TS](./algorithms/reverseVowelsOfAString/reverseVowelsOfAString.ts) |Easy|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [TS](./algorithms/increasingTripletSubsequence/increasingTripletSubsequence.ts) |Medium|
 |332|[Coin Change](https://leetcode.com/problems/coin-change/) | [TS](./algorithms/coinChange/coinChange.ts) |Medium|
