@@ -6,6 +6,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|332|[Coin Change](https://leetcode.com/problems/coin-change/) | [TS](./algorithms/coinChange/coinChange.ts) |Medium|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/) | [TS](./algorithms/uglyNumber/uglyNumber.ts) |Easy|
 |198|[House Robber](https://leetcode.com/problems/house-robber/) | [TS](./algorithms/houseRobber/houseRobber.ts) |Medium|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/) | [TS](./algorithms/majorityElement/majorityElement.ts) |Easy|
