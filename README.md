@@ -6,6 +6,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [TS](./algorithms/reverseVowelsOfAString/reverseVowelsOfAString.ts) |Easy|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [TS](./algorithms/increasingTripletSubsequence/increasingTripletSubsequence.ts) |Medium|
 |332|[Coin Change](https://leetcode.com/problems/coin-change/) | [TS](./algorithms/coinChange/coinChange.ts) |Medium|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/) | [TS](./algorithms/uglyNumber/uglyNumber.ts) |Easy|
