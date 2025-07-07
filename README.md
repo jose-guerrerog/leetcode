@@ -6,6 +6,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Python](./algorithms/isSubsequence/isSubsequence.py) |Easy|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/) | [Python](./algorithms/uglyNumber/uglyNumber.py) |Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./algorithms/bestTimeToBuyAndSellStock/bestTimeToBuyAndSellStock.py) |Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./algorithms/climbingStairs/climbingStairs.py) |Easy|
