@@ -8,6 +8,7 @@ LeetCode
 |---| ----- | -------- | ---------- |
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Python](./algorithms/isSubsequence/isSubsequence.py) |Easy|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/) | [Python](./algorithms/uglyNumber/uglyNumber.py) |Easy|
+|198|[House Robber](https://leetcode.com/problems/house-robber/) | [TS](./algorithms/houseRobber/houseRobber.py) |Medium|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./algorithms/bestTimeToBuyAndSellStock/bestTimeToBuyAndSellStock.py) |Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./algorithms/climbingStairs/climbingStairs.py) |Easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](./algorithms/lengthOfLastWord/lengthOfLastWord.py) |Easy|
